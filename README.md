@@ -12,12 +12,6 @@ I'm a final-year Computer Science Engineering student passionate about **Full-St
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 - **DevOps & Tools:** Docker, Git, Postman  
 
-### 🚀 A bit more about me
-I’m driven by curiosity and a love for clean, maintainable code. Collaborating on open-source projects and learning from the developer community are things I value highly.
-
-📫 **Let's connect:**  
-- [LinkedIn](https://linkedin.com/in/your-linkedin-username)  
-- [Email](mailto:your-email@example.com)  
-- [Portfolio or Blog](https://your-website.com) (optional)
-
-> “Code is more than syntax — it’s a way of building ideas into reality.”
+Let's connect:  
+- [LinkedIn](www.linkedin.com/in/aadit-ahuja-3a4289249)
+  
